@@ -1,0 +1,13 @@
+<servlet>
+    <servlet-name>Adiciona Carro</servlet-name>
+	<servlet-class>
+		br.com.ifpi.carifpi.servlet.AddCarroServlet
+	</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	<servlet-name>Add Car</servlet-name>
+	<url-pattern>/addCar</url-pattern>
+	</servlet-mapping>
+	
+	
+	align-self-end 
